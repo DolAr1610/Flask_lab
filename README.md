@@ -32,6 +32,10 @@ flask run
 ```
 You can now go to http://127.0.0.1:5000/api/v1/hello-world-8 in your web browser to see the response from the server.
 
+## License
+
+This project is distributed under the MIT license. Details can be found in the LICENSE file.
+
 ## Author
 Arsen Dolichnyi 
 
